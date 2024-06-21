@@ -54,6 +54,9 @@ and success criteria  of our project.
 #### Insights observed
 
 -Brick & Mortar Business type contribute 66% of total sales
+
 -Delhi NCR brings the overall highest revenue 483M along with sells 894K quantity of goods
+
 -Electricalsara Store is the top customer in terms of revenue
+
 -Profit % is highest in Surat.
