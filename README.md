@@ -44,12 +44,12 @@ and success criteria  of our project.
 #### Performance Insights
 
 ---
-<img src="https://github.com/Sumitraadhya/Sales-Insights-AtliQ/blob/main/Key%20Insights.png">
+<img src="https://github.com/Sumitraadhya/Sales-Insights-AtliQ/blob/main/Performance%20Insights.png">
 
 #### Profit Analysis
 
 ---
-<img src="https://github.com/Sumitraadhya/Sales-Insights-AtliQ/blob/main/Key%20Insights.png">
+<img src="https://github.com/Sumitraadhya/Sales-Insights-AtliQ/blob/main/Profit%20Analysis.png">
 
 #### Insights observed
 
