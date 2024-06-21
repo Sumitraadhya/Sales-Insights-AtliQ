@@ -5,13 +5,7 @@
 
 ## Problem statement
 
-AtliQ hardware is a company which delivers computer hardware & peripheral 
-Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of
-issues in terms of understanding how the business is performing and what are all the problem company is
-facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers
-to get the current status of the sales and market, as a human behaviour, these people 
-sugar cote the truth and send tons of Excel files instead of disclosing the truth, which made the sales director more frustrated.
-Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
+AtliQ Hardware is a company that delivers computer hardware & peripheral Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of challenges in terms of understanding how the business is performing. The company is facing trouble as the sales are not as expected and declining gradually. With a pile of Excel file, unable to track the performance, the sales director wants some technical person who can give insights by looking at the excel data to some concrete numbers. So that they can adopt some new strategy to improve revenue by next quarters.
 
 ## Solution 
 
